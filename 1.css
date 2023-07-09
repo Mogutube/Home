@@ -1,0 +1,25 @@
+.logo{
+	top:3px;
+	width:30%;
+}
+
+
+
+
+.text-title{
+	text-decoration: none;
+	color: black;
+	font-size:25px;
+	
+}
+
+.img { 
+	width: 90%; 
+	height: auto;
+}
+
+.title{
+display:flex;
+justify-content: space-around;
+margin: 100px;
+}
